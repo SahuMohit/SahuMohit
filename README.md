@@ -11,7 +11,9 @@
 <a href="https://open.spotify.com/user/gx6muu6gsv0gi8byfogkcsm1k">
   <img align="left" alt="Mohit's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
+<!-- 
 ![](https://visitor-badge.glitch.me/badge?page_id=SahuMohit.SahuMohit)
+-->
 
 </br>
 
