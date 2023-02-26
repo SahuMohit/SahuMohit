@@ -26,7 +26,7 @@ A passionate software developer with a love for open-source projects.
 </br>
 <h3>Top Languages</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahuMohit)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahuMohit)
 
 
 
