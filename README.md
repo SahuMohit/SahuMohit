@@ -18,8 +18,13 @@ A passionate software developer with a love for open-source projects.
 </br>
 </br>
 </br>
+<h3>GitHub stats</h3>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SahuMohit&show_icons=true&theme=radical)
 
-![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahuMohit&show_icons=true&theme=radical)
+</br>
+</br>
+<h3>Top Languages</h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahuMohit)](https://github.com/SahuMohit/github-readme-stats)
 
 
 
