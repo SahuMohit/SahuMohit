@@ -15,7 +15,11 @@ A passionate software developer with a love for open-source projects.
 ![](https://visitor-badge.glitch.me/badge?page_id=SahuMohit.SahuMohit)
 -->
 
-[![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahuMohit)](https://github.com/SahuMohit/github-readme-stats)
+</br>
+</br>
+</br>
+
+[![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahuMohit)](https://github.com/SahuMohit/github-readme-stats&theme=radical)
 
 
 
