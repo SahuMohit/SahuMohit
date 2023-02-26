@@ -19,7 +19,8 @@ A passionate software developer with a love for open-source projects.
 </br>
 </br>
 
-[![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahuMohit)](https://github.com/SahuMohit/github-readme-stats&theme=radical&show_icons=true)
+![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahuMohit&show_icons=true&theme=radical)
+
 
 
 
