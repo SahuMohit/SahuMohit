@@ -15,9 +15,9 @@ A passionate software developer with a love for open-source projects.
 ![](https://visitor-badge.glitch.me/badge?page_id=SahuMohit.SahuMohit)
 -->
 
-📈 Check out my Github profile to see my total contributions and commit activity over time! 
-[![](https://github.com/SahuMohit/SahuMohit/graphs/contributors)](https://github.com/SahuMohit) 
-[![](https://github.com/SahuMohit/SahuMohit/graphs/commit-activity)](https://github.com/SahuMohit)
+[![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahuMohit)](https://github.com/SahuMohit/github-readme-stats)
+
+
 
 
 </br>
