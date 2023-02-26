@@ -1,4 +1,7 @@
-### Hi there 👋, I am Mohit Sahu! 
+### Hi there 👋, I am Mohit Sahu!
+A passionate software developer with a love for open-source projects.
+💻 I've been programming for 7 years and have contributed to a variety of projects across different programming languages.
+
 <a href="#">
   <img align="left" alt="Mohit's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -11,6 +14,11 @@
 <!-- 
 ![](https://visitor-badge.glitch.me/badge?page_id=SahuMohit.SahuMohit)
 -->
+
+📈 Check out my Github profile to see my total contributions and commit activity over time! 
+[![](https://github.com/SahuMohit/SahuMohit/graphs/contributors)](https://github.com/SahuMohit) 
+[![](https://github.com/SahuMohit/SahuMohit/graphs/commit-activity)](https://github.com/SahuMohit)
+
 
 </br>
 
