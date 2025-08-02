@@ -1,51 +1,46 @@
-### Hi there 👋, I am Mohit Sahu!
-A passionate software developer with a love for open-source projects.
-💻 I've been programming for 7 years and have contributed to a variety of projects across different programming languages.
+<h1 align="center">Hi, I'm Mohit Sahu 👋</h1>
+<p align="center">
+  🚀 Tech Lead | Full Stack Developer | DevOps Specialist | Mentor
+</p>
 
-<a href="#">
-  <img align="left" alt="Mohit's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/smoneybwr">
-  <img align="left" alt="Mohit Sahu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/mohit-sahu-bbb044136">
-  <img align="left" alt="Mohit's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<!-- 
-![](https://visitor-badge.glitch.me/badge?page_id=SahuMohit.SahuMohit)
--->
+<p align="center">
+  With 8+ years of experience designing and building highly scalable, production-grade systems, I specialize in backend engineering while also bringing strong expertise in frontend technologies and cloud infrastructure.
+</p>
 
-</br>
-</br>
-</br>
-<h3>GitHub stats</h3>
+- 🔭 Currently working as a **Tech Lead** in a SaaS-based TMS company where I lead cross-functional teams and drive product delivery focused on performance, reliability, and developer excellence.
+- 🛠️ **Toolbox:** Java · Kotlin · Node.js · Angular · React · HTML5 · JavaScript · GCP · Docker · GitHub Actions · Infrastructure as Code · JUnit · Mockito · MongoDB · SQL
+- 🧭 I architect & optimize microservices, lead sprint planning, mentor developers, and design & enforce API standards.
+- 💡 Passionate about clean architecture, CI/CD pipelines, and turning complexity into simplicity.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SahuMohit&show_icons=true&theme=radical)
+<p align="center">
+  <a href="https://twitter.com/smoneybwr">
+    <img alt="Mohit Sahu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohit-sahu-bbb044136">
+    <img alt="Mohit's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>
+</p>
 
-</br>
-</br>
-<h3>Top Languages</h3>
+<h3 align="center">GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SahuMohit&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahuMohit)
+<h3 align="center">Top Languages</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahuMohit&layout=compact&theme=radical" alt="Top languages" />
+</p>
 
+<h3 align="center">GitHub Streak</h3>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SahuMohit&theme=radical" alt="GitHub streak" />
+</p>
 
+<h3 align="center">Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SahuMohit&theme=radical&margin-w=15" alt="GitHub trophies" />
+</p>
 
-
-
-</br>
-
-
-<!--
-**SahuMohit/SahuMohit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  ✨ Let's connect and build something awesome together!
+</p>
