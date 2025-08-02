@@ -21,26 +21,6 @@
   </a>
 </p>
 
-<h3 align="center">GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahuMohit&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-
-<h3 align="center">Top Languages</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahuMohit&layout=compact&theme=radical" alt="Top languages" />
-</p>
-
-<h3 align="center">GitHub Streak</h3>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SahuMohit&theme=radical" alt="GitHub streak" />
-</p>
-
-<h3 align="center">Trophies</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SahuMohit&theme=radical&margin-w=15" alt="GitHub trophies" />
-</p>
-
 <p align="center">
   ✨ Let's connect and build something awesome together!
 </p>
