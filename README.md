@@ -13,10 +13,10 @@
 - 💡 Passionate about clean architecture, CI/CD pipelines, and turning complexity into simplicity.
 
 <p align="center">
-  <a href="https://twitter.com/smoneybwr">
+  <a href="https://twitter.com/smoneybwr" target="_blank" rel="noopener noreferrer">
     <img alt="Mohit Sahu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
   </a>
-  <a href="https://www.linkedin.com/in/mohit-sahu-bbb044136">
+  <a href="https://www.linkedin.com/in/mohit-sahu-bbb044136" target="_blank" rel="noopener noreferrer">
     <img alt="Mohit's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
 </p>
